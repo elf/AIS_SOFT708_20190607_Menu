@@ -12,7 +12,7 @@ I have developed this app around an hour.
 # Technology requirements
 
 - To use multiple activities.
-- Bring the values to another acivity.
+- To bring the values to another acivity.
 - To use scroll view.
 - To generate dinamic views while the app is running.
 
