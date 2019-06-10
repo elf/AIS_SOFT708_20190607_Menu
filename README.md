@@ -16,3 +16,7 @@ I have developed this app around an hour.
 - To use scroll view.
 - To generate dinamic views while the app is running.
 
+# Thanks
+
+- Icon image is from Irasutoya <https://www.irasutoya.com/>
+
